@@ -5,6 +5,7 @@
 [sub_resource type="OpenSimplexNoise" id=1]
 
 [sub_resource type="NoiseTexture" id=2]
+flags = 2
 noise = SubResource( 1 )
 
 [resource]
